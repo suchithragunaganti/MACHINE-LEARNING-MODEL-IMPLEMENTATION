@@ -14,6 +14,8 @@ Mentor: Neela Santhosh Kumar
 
 OUTPUT
 
+![Image](https://github.com/user-attachments/assets/a89debef-ac59-468e-859d-a0b78a77f0d7)
+
 
 
 Spam Email Detection Using Machine Learning
